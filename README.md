@@ -1,4 +1,4 @@
-# Object Detection with PyTorch
+# Detekcja obiektów z użuciem PyTorch
 
 Projekt detekcji obiektów (samochodów) z wykorzystaniem PyTorch TorchVision.
 
